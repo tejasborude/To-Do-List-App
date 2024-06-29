@@ -1,0 +1,18 @@
+.input-box-todo{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.add-btn{
+    padding: 10px;
+    margin-left: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
+.add-btn:hover{
+    background-color: gold;
+    color: black;
+}
